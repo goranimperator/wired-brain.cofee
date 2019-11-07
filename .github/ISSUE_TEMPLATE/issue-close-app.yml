@@ -7,7 +7,7 @@ issueConfigs:
   - "Describe the bug"
   - "Steps to Reproduce"
   - "Expected behavior"
-  - "Current Behavior"
+  - "Current behavior"
 - content:
 # Example 2: feature request
   - "Use case"
